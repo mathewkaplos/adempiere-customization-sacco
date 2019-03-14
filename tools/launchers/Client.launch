@@ -12,5 +12,5 @@
 </listAttribute>
 <stringAttribute key="org.eclipse.jdt.launching.MAIN_TYPE" value="org.compiere.Adempiere"/>
 <stringAttribute key="org.eclipse.jdt.launching.PROJECT_ATTR" value="adempiere-customization-sacco"/>
-<stringAttribute key="org.eclipse.jdt.launching.VM_ARGUMENTS" value="-DPropertyFile=&quot;E:\380_sacco\adempiere-master\ADempiere.properties&quot;&#13;&#10;-Xms1024m&#13;&#10;-Xmx4096m&#13;&#10;-Dorg.adempiere.server.embedded=true &#13;&#10;-DADEMPIERE_HOME=&quot;E:\380_sacco\adempiere-master&quot;"/>
+<stringAttribute key="org.eclipse.jdt.launching.VM_ARGUMENTS" value="-DPropertyFile=&quot;E:\380_sacco\adempiere-master\ADempiere.properties&quot;&#13;&#10;-Xms1024m&#13;&#10;-Xmx1024m&#13;&#10;-Dorg.adempiere.server.embedded=true &#13;&#10;-DADEMPIERE_HOME=&quot;E:\380_sacco\adempiere-master&quot;"/>
 </launchConfiguration>
